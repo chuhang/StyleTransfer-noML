@@ -6,7 +6,18 @@ Hang Chu, University of Toronto, CSC2523 Course Project
 
 **A Curious Exploration of Image Style Transfer — Using Color-Shape-Texture Cues, without ML**  
 Hang Chu 
-[pdf]
+[pdf](https://github.com/chuhang/StyleTransfer-noML/blob/master/report.pdf)
+
+## Results:
+![](./imgs/input1.png "input image")
+![](./imgs/style1.png "style image")
+![](./imgs/result1_1.png "result1")
+![](./imgs/result1_2.png "result2")
+
+![](./imgs/input2.png "input image")
+![](./imgs/style2.png "style image")
+![](./imgs/result2_1.png "result1")
+![](./imgs/result2_2.png "result2")
 
 
 ## Requirements:
