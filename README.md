@@ -35,9 +35,9 @@ Example2:
 run_demo.m
 ```
 
-We saved AMAT result in data.mat and data2.mat. This demo does not use Image Quilting.
+We saved AMAT result in data.mat and data2.mat. This demo does not use Image Quilting. Therefore, you can run our demo on example images even without installing AMAT and Image Quilting.
 
-### 2. Get all dependencies
+### 2. Get full dependencies
 
 - Get AMAT from [AMAT](https://github.com/tsogkas/amat)
 - Get Image Quilting from [ImageQuilting](https://github.com/PJunhyuk/ImageQuilting)
